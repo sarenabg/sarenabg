@@ -17,7 +17,7 @@ Building small, sharp CLI tools for the crypto trenches. No VC deck required.
 ---
 
 ## Background
-
+ <a></a>
 ```
 Product @ GlitchD Network     → Rollup-as-a-service infrastructure
 Previously @ Broctagon        → Scaled DeFi protocol to $200M+ TVL
