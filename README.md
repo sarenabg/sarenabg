@@ -1,83 +1,74 @@
-<a name="readme-top"></a>
+# Hi, I'm Saren Abgaryan, PhD.
+### Architecting the Decentralized World
+
+Product Manager with 8+ years in Web3. Shipping self-serve rollups, data availability layers, and high-TVL DeFi protocols.
+
+[Email](mailto:saren.abgaryan@yahoo.com) • [LinkedIn](https://linkedin.com/in/sarenabg) • [GitHub](https://github.com/sarenabg) • [Twitter](https://x.com/sarenabg)
+
+---
+
+## About Me
+
+I am a Product Manager in Web3 with deep expertise in blockchain architecture. Fluent in DeFi protocol design, I bridge the gap between complex technical innovations and user-centric product requirements.
+
+I have a track record of shipping self-serve rollup tooling, data availability infrastructure, and managing products with over $200M TVL. I actively collaborate with industry leaders like LayerZero, Dune, and Hacken, and frequently speak at Web3 conferences.
+
+---
+
+## Experience
+
+### Head of Product / Contributor (Remote)
+**GlitchD Network – Blyz App** | *Jun 2024 – Present*
+- Own the vision and multi-year roadmap for both an “AWS-for-Web3” infrastructure suite (L2/L3 rollups, DA layer) and the Blyz application platform, guiding protocols from ideation and technical specs through launch readiness.
+- Lead 3 cross-functional teams (7+ engineers/designers) to ship a self-serve rollup builder and drive PMF search by mapping user journeys, prioritizing core features, and iterating with community feedback.
+- Coordinate GTM with sales/marketing and lead technical integrations with ecosystem partners (e.g., LayerZero, Dune) to secure co-grant programs and early pilot clients.
+- Define activation, retention, and cost KPIs, running user interviews and experiments to improve onboarding and self-serve adoption.
+
+### Web3 Product Advisor
+**Fractional (Remote)** | *Feb 2024 – Jun 2024*
+- Advised multiple teams on end-to-end product delivery: PRDs, smart contract architecture, and UX for DeFi and Web3 apps.
+- Led product work on a real-estate asset tokenization platform (RWA), from concept and specs through early development.
+- Supported DeFi protocol design: on-chain governance, liquidity mining, staking, and swap integrations.
+
+### Web3 Product Manager (Remote)
+**Broctagon Fintech Group** | *Nov 2021 – Feb 2024*
+- Led development of DeFi products (arbitrage bots, yield farming, staking, lending) for global fintech clients.
+- Drove a flagship DeFi product to $200M+ TVL; increased per-project margins by 700% by reducing build costs and reusing core components.
+- Managed full product lifecycle using Agile: discovery, market research, delivery, launch, and continuous optimization with cross-functional teams.
+
+### Web3 Project Manager (Shanghai)
+**Heyi Blockchain** | *Aug 2017 – Jan 2020*
+- Co-founded the blockchain advisory arm for Heyi Group (affiliated with King & Wood Mallesons).
+- Managed multiple advisory engagements and co-authored white papers for Ethereum-based insurance, gaming, and wellness platforms.
+
+### Blockchain Research (Shanghai)
+**ViewFin Blockchain Co** | *Apr 2017 – Aug 2017*
+- Researched and co-authored the Aimwise platform white paper, covering use cases, technical design, and go-to-market.
+
+---
+
+## Technical Skills
+
+| Domain | Skills |
+| :--- | :--- |
+| **Infrastructure** | OP Stack, Arbitrum Orbit, ZK Stack, Scroll, Data Availability |
+| **DeFi & Product** | AMMs, Staking & Yield, Lending, Tokenomics, Governance |
+| **Process & Tools** | Agile/Scrum, Dune Analytics, SQL, Smart Contract QA, UX Research |
+
+### Certifications
+- PMP®
+- PSPO I
+- AWS Cloud Practitioner
+
+---
+
+## Writing
+
+- **LinkedIn Pulse**: [The Era of the "Architect-Builder": How AI Turns Product Managers into Builders](#)
+- **LinkedIn Pulse**: [The "Invisible Crypto" Stack: How I Built a Gasless, On-Chain App in One Weekend](#)
+
+---
 
 <div align="center">
-  <img src="https://github.com/sarenabg.png" alt="Profile" width="180" height="180" style="border-radius: 50%;" />
-  <h1>Hi, I'm Saren 👋</h1>
-  
-  <p>
-    <a href="https://github.com/sarenabg">
-      <img src="https://img.shields.io/github/followers/sarenabg?style=social" alt="GitHub followers" />
-    </a>
-    <a href="https://x.com/sarenabg">
-      <img src="https://img.shields.io/twitter/follow/sarenabg?style=social&logo=x" alt="X (formerly Twitter) Follow" />
-    </a>
-  </p>
-
-  <p>
-    Crypto enthusiast coding my way through the blockchain. Building tools for optimal RPC performance and tracking gas fees. <br />
-    Always learning, always shipping.
-  </p>
+  <small>© 2026 Saren Abgaryan. Built with decentralized dreams.</small>
 </div>
-
-<br />
-
-## Current Projects
-
-🔭 **Featured Work**
-- [**rpc-wars**](https://github.com/sarenabg/rpc-wars) - Benchmark your RPC providers head-to-head. Optimize your dApp's latency and reliability.
-- [**bitcoin-mvp-python**](https://github.com/sarenabg/bitcoin-mvp-python) - A minimal viable product implementation of Bitcoin fundamentals in Python.
-- [**viem-gas-tracker**](https://github.com/sarenabg/viem-gas-tracker) - Real-time gas tracking utility using Viem.
-
-🌱 **Experiments**
-- [**web3-pm-blog**](https://github.com/sarenabg/web3-pm-blog) - Thoughts on Web3 product management.
-- [**VoiceApp-Updates**](https://github.com/sarenabg/VoiceApp-Updates) - Managing updates (DMG + Sparkle appcast) for VoiceApp.
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github.com/sarenabg/sarenabg/raw/output/github-contribution-grid-snake.svg?palette=github-light" alt="snake animation" />
-</div>
-
-<br />
-
-## What I'm Doing
-
-<<<<<<< HEAD
-## Background
- <a></a>
-```
-Product @ GlitchD Network     → Rollup-as-a-service infrastructure
-Previously @ Broctagon        → Scaled DeFi protocol to $200M+ TVL
-```
-
-**Chains I've shipped on:** Ethereum · Arbitrum · Optimism · Base · Solana · Sui
-
----
-
-## What I Care About
-
-- **Practical > Hype** – Tools that solve real problems, not narrative plays
-- **Ship beats perfect** – Weekend builds that actually work
-- **DeFi infrastructure** – The boring pipes that make everything flow
-=======
-- ⚡ **Optimizing Infrastructure**: Focusing on RPC latency and provider reliability.
-- 🐍 **Python & Blockchain**: Exploring low-level protocol implementations.
-- ⛽ **Gas Efficiency**: Building tools to monitor and predict transaction costs.
-- 📝 **Writing**: Documenting the journey of building in public.
->>>>>>> 1b39732 (feat: redesign profile with snake animation and project list)
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://x.com/sarenabg" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="sarenabg" /></a>
-  <a href="https://github.com/sarenabg" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="sarenabg" /></a>
-  <a href="mailto:contact@sarena.bg" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="right">
-  <small>Profile generated with ❤️ by <a href="https://github.com/sarenabg">Antigravity</a></small>
-</p>
