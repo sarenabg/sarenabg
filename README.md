@@ -1,7 +1,7 @@
 # Hi, I'm Saren Abgaryan, PhD.
 ### Architecting the Decentralized World
 
-Product Manager with 8+ years in Web3. Shipping self-serve rollups, data availability layers, and high-TVL DeFi protocols.
+Product Leader with 8+ years in Web3. Shipping self-serve rollups, data availability layers, and high-TVL DeFi protocols.
 
 [Email](mailto:saren.abgaryan@yahoo.com) • [LinkedIn](https://linkedin.com/in/sarenabg) • [GitHub](https://github.com/sarenabg) • [Twitter](https://x.com/sarenabg)
 
@@ -9,7 +9,7 @@ Product Manager with 8+ years in Web3. Shipping self-serve rollups, data availab
 
 ## About Me
 
-I am a Product Manager in Web3 with deep expertise in blockchain architecture. Fluent in DeFi protocol design, I bridge the gap between complex technical innovations and user-centric product requirements.
+I am a Product Leader in Web3 with deep expertise in blockchain architecture. Fluent in DeFi protocol design, I bridge the gap between complex technical innovations and user-centric product requirements.
 
 I have a track record of shipping self-serve rollup tooling, data availability infrastructure, and managing products with over $200M TVL. I actively collaborate with industry leaders like LayerZero, Dune, and Hacken, and frequently speak at Web3 conferences.
 
