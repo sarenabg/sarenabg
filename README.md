@@ -17,6 +17,7 @@ I have a track record of shipping self-serve rollup tooling, data availability i
 
 ## Featured Projects
 
+- [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - Native macOS menu bar app for contribution stats, streaks, trend lines, language mix, and daily LOC movement.
 - [**Bitcoin MVP**](https://github.com/sarenabg/bitcoin-mvp-python) - Minimal viable product implementation of Bitcoin fundamentals in Python.
 - [**Voice App**](https://github.com/sarenabg/VoiceApp) - Voice-enabled application aimed at improving accessibility and efficiency.
 - [**RPC wars**](https://github.com/sarenabg/rpc-wars) - Benchmark your RPC providers head-to-head to optimize dApp performance.
