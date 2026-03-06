@@ -17,6 +17,7 @@ I have a track record of shipping self-serve rollup tooling, data availability i
 
 ## Featured Projects
 
+- [**AgenticFi**](https://www.agenticfi.wtf/) - Trust layer for on-chain agents and autonomous finance infrastructure.
 - [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - Native macOS menu bar app for contribution stats, streaks, trend lines, language mix, and daily LOC movement.
 - [**Bitcoin MVP**](https://github.com/sarenabg/bitcoin-mvp-python) - Minimal viable product implementation of Bitcoin fundamentals in Python.
 - [**Voice App**](https://voice.sarenlabs.xyz/) - Voice-enabled application aimed at improving accessibility and efficiency.
