@@ -3,7 +3,7 @@
 
 Product Leader with 8+ years in Web3. Shipping self-serve rollups, data availability layers, and high-TVL DeFi protocols.
 
-[Email](mailto:saren.abgaryan@yahoo.com) • [LinkedIn](https://linkedin.com/in/sarenabg) • [GitHub](https://github.com/sarenabg) • [Twitter](https://x.com/sarenabg)
+[Email](mailto:saren.abgaryan@yahoo.com) • [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) • [GitHub](https://github.com/sarenabg) • [X](https://x.com/Sar_abg1)
 
 ---
 
