@@ -18,6 +18,7 @@ I have a track record of shipping self-serve rollup tooling, data availability i
 ## Featured Projects
 
 - [**AgenticFi**](https://www.agenticfi.wtf/) - Trust layer for on-chain agents and autonomous finance infrastructure.
+- [**AgenticFi API**](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0) - DeFi APIs for AI agents with 36 pay-per-call endpoints for token data, pricing, wallet analytics, swap routing, and on-chain workflows.
 - [**Markets Terminal**](https://markets-terminal-app.vercel.app/) - Paper-trading market dashboard for live crypto and stock views, portfolio tracking, and simulated execution flows.
 - [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - Native macOS menu bar app for contribution stats, streaks, trend lines, language mix, and daily LOC movement.
 - [**Bitcoin MVP**](https://github.com/sarenabg/bitcoin-mvp-python) - Minimal viable product implementation of Bitcoin fundamentals in Python.
