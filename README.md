@@ -11,17 +11,17 @@ I build AI-native products that connect context, memory, and action across work 
 
 I am an AI-focused product builder with 8+ years across product, design, engineering, and Web3 infrastructure. I move from ambiguous problem spaces to working systems: mapping user needs, designing the experience, writing specs, building prototypes, and leading teams through launch.
 
-My current focus is AgenticFi, a personal AI brain for macOS that connects a user's apps and acts on their behalf. Before that, I shipped self-serve rollup tooling, data availability infrastructure, and DeFi products with $200M+ TVL, collaborating with teams like LayerZero, Dune, and Hacken.
+My current focus is [AgenticFi](https://agenticfi.wtf/), a personal AI brain for macOS that connects a user's apps and acts on their behalf. Before that, I shipped self-serve rollup tooling, data availability infrastructure, and DeFi products with $200M+ TVL, collaborating with teams like LayerZero, Dune, and Hacken.
 
 ---
 
 ## Main Project
 
-### [AgenticFi](https://www.agenticfi.wtf/)
+### [AgenticFi](https://agenticfi.wtf/)
 
 AgenticFi is a personal AI brain for macOS that connects email, calendar, meetings, and work apps into a private memory layer. It acts by voice or text to draft, schedule, summarize, and automate work on the user's behalf.
 
-- **Tender App** - Voice-based mindfulness for startup life, loosely based on Internal Family Systems (IFS). Built to help founders and builders talk to their inner parts during stressful moments; live on the App Store as part of the AgenticFi ecosystem.
+- [**Tender App**](https://apps.apple.com/am/app/tender-ifs/id6762642031) - Voice-based mindfulness for startup life, loosely based on Internal Family Systems (IFS). Built to help founders and builders talk to their inner parts during stressful moments; live on the App Store as part of the AgenticFi ecosystem.
 - [**AgenticFi API**](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0) - Agent-ready DeFi APIs with 36 pay-per-call endpoints for token data, pricing, wallet analytics, swap routing, and on-chain workflows.
 
 ---
