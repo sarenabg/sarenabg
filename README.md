@@ -20,7 +20,7 @@ AgenticFi turns natural-language intent into executable DeFi workflows, includin
 - 16 smart contracts deployed across 6 EVM chains
 - ERC-8004 agent identity and on-chain reputation
 - 36 x402 DeFi API endpoints across 8 categories
-- USDC-paid API access for autonomous agents
+- Autonomous agents completed USDC-paid API calls within 24 hours of launch
 - Transaction simulation and post-state safety assertions
 
 [Launch AgenticFi](https://app.agenticfi.wtf) · [Explore the x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
@@ -45,7 +45,7 @@ A voice-and-chat reflection app inspired by parts work, with parts mapping and a
 - Shipped self-service rollup deployment across OP Stack, Arbitrum Orbit, zkSync ZK Stack, and Avalanche, reducing deployment from **months to minutes**
 - Increased per-project margins by **700%** through reusable smart-contract components
 - Led **7+ engineers and designers** across three workstreams, increasing feature throughput by **40%**
-- Delivered a Web3 launch platform whose Sherlock audit reported **zero high-, medium-, or low-severity findings**
+- Delivered a Genesis NFT launch platform whose Sherlock audit reported **zero high-, medium-, or low-severity findings**
 
 ---
 
@@ -65,6 +65,6 @@ A voice-and-chat reflection app inspired by parts work, with parts mapping and a
 
 ---
 
-I publish reference implementations, technical case studies, and product tools that make architecture decisions and execution quality inspectable.
+I build products that make architecture decisions and execution quality inspectable.
 
 If you are building at the intersection of agentic AI, fintech, DeFi, or developer infrastructure, let's connect through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
