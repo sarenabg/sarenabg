@@ -25,17 +25,17 @@ AgenticFi turns natural-language intent into executable DeFi workflows, includin
 
 [Launch AgenticFi](https://app.agenticfi.wtf) · [Explore the x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
 
-### [Sannie](https://sannie.ai/) - Local-first AI workspace for macOS
+### [Sannie](https://sannie.ai/) - Local-first agent OS for Mac
 
-Sannie brings voice capture, meetings, notes, reminders, chat, and local context into one AI workspace. Its permissioned specialized agents expose task state, sources, approvals, and execution as they work.
+Sannie brings voice capture, meetings, notes, reminders, chat, local context, and specialized agents into one permissioned, reviewable workspace. Its agents expose task state, sources, approvals, and execution as they work. Sannie is currently in private beta.
 
 [Explore Sannie](https://sannie.ai/)
 
-### [Tender IFS](https://apps.apple.com/us/app/tender-ifs/id6762642031) - Voice reflection on iOS
+### [Tender IFS](https://apps.apple.com/app/tender-ifs/id6762642031) - Guided voice reflection
 
-An on-demand voice reflection agent informed by Internal Family Systems methodology. Tender IFS is live on the App Store with subscription billing and a seven-day free trial.
+A voice-and-chat reflection app inspired by parts work, with parts mapping and a private journal of insights. Tender IFS is live on the App Store with subscription billing and a seven-day free trial.
 
-[View on the App Store](https://apps.apple.com/us/app/tender-ifs/id6762642031)
+[View on the App Store](https://apps.apple.com/app/tender-ifs/id6762642031)
 
 ---
 
@@ -49,15 +49,9 @@ An on-demand voice reflection agent informed by Internal Family Systems methodol
 
 ---
 
-## Selected public work
+## Also built
 
-### [GitPulse](https://gitpulse.sarenlabs.xyz/)
-
-A native macOS menu-bar dashboard for GitHub contribution statistics, streaks, trends, language mix, and daily code activity.
-
-### [Markets Terminal](https://markets-terminal-app.vercel.app/)
-
-A paper-trading market dashboard with live cryptocurrency and equity views, portfolio tracking, and simulated execution.
+- [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - A native macOS menu-bar app for GitHub contributions, streaks, activity trends, language mix, and LOC insights, with data stored locally
 
 ---
 
