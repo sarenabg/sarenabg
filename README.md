@@ -2,7 +2,7 @@
 
 **Product leader building agentic AI, DeFi, and Web3 infrastructure.**
 
-I turn complex infrastructure into usable products - from discovery and architecture through launch, pricing, and GTM. Over 8+ years, I have shipped DeFi platforms, self-service rollup infrastructure, and agentic products, with a focus on safe and inspectable execution.
+I turn complex infrastructure into usable products - from discovery and architecture through launch, pricing, and GTM. Across 8+ years, I have shipped DeFi platforms, self-service rollup infrastructure, and agentic products, with a focus on safe and inspectable execution.
 
 **Founder & Product Lead at [Agentic Labs](https://labs.agenticfi.wtf).**
 
