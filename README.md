@@ -1,102 +1,76 @@
-# Hi, I'm Saren Abgaryan, PhD.
-### AI Product Lead + Design Lead + Engineer
+# Saren Abgaryan, PhD, PMP®
 
-I build AI-native products that connect context, memory, and action across work apps. Product lead, design lead, and engineer merged into one person: strategy, UX, prototypes, and shipped software.
+**Product leader building agentic AI, DeFi, and Web3 infrastructure.**
 
-[Email](mailto:saren.abgaryan@yahoo.com) • [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) • [GitHub](https://github.com/sarenabg) • [X](https://x.com/Sar_abg1)
+I turn complex infrastructure into usable products - from discovery and architecture through launch, pricing, and GTM. Over 8+ years, I have shipped DeFi platforms, self-service rollup infrastructure, and agentic products, with a focus on safe and inspectable execution.
 
----
+**Founder & Product Lead at [Agentic Labs](https://labs.agenticfi.wtf).**
 
-## About Me
-
-I am an AI-focused product builder with 8+ years across product, design, engineering, and Web3 infrastructure. I move from ambiguous problem spaces to working systems: mapping user needs, designing the experience, writing specs, building prototypes, and leading teams through launch.
-
-My current focus is [AgenticFi](https://agenticfi.wtf/), a personal AI brain for macOS that connects a user's apps and acts on their behalf. Before that, I shipped self-serve rollup tooling, data availability infrastructure, and DeFi products with $200M+ TVL, collaborating with teams like LayerZero, Dune, and Hacken.
+[Agentic Labs](https://labs.agenticfi.wtf) · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [Email](mailto:saren.abgaryan@yahoo.com)
 
 ---
 
-## Main Project
+## What I'm building
 
-### [AgenticFi](https://agenticfi.wtf/)
+### [AgenticFi](https://app.agenticfi.wtf) - Agentic DeFi execution
 
-AgenticFi is a personal AI brain for macOS that connects email, calendar, meetings, and work apps into a private memory layer. It acts by voice or text to draft, schedule, summarize, and automate work on the user's behalf.
+AgenticFi turns natural-language intent into executable DeFi workflows, including swaps, cross-chain bridging, transfers, yield deposits, and automated yield management.
 
-- [**Tender App**](https://apps.apple.com/am/app/tender-ifs/id6762642031) - Voice-based mindfulness for startup life, loosely based on Internal Family Systems (IFS). Built to help founders and builders talk to their inner parts during stressful moments; live on the App Store as part of the AgenticFi ecosystem.
-- [**AgenticFi API**](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0) - Agent-ready DeFi APIs with 36 pay-per-call endpoints for token data, pricing, wallet analytics, swap routing, and on-chain workflows.
+- Multi-agent router coordinating 10 specialized agents
+- 16 smart contracts deployed across 6 EVM chains
+- ERC-8004 agent identity and on-chain reputation
+- 36 x402 DeFi API endpoints across 8 categories
+- USDC-paid API access for autonomous agents
+- Transaction simulation and post-state safety assertions
 
----
+[Launch AgenticFi](https://app.agenticfi.wtf) · [Explore the x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
 
-## Selected Projects
+### [Sannie](https://sannie.ai/) - Local-first AI workspace for macOS
 
-- [**Markets Terminal**](https://markets-terminal-app.vercel.app/) - Paper-trading market dashboard for live crypto and stock views, portfolio tracking, and simulated execution flows.
-- [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - Native macOS menu bar app for contribution stats, streaks, trend lines, language mix, and daily LOC movement.
-- [**Bitcoin MVP**](https://github.com/sarenabg/bitcoin-mvp-python) - Minimal viable product implementation of Bitcoin fundamentals in Python.
-- [**Voice App**](https://voice.sarenlabs.xyz/) - Voice-enabled application aimed at improving accessibility and efficiency.
-- [**RPC wars**](https://github.com/sarenabg/rpc-wars) - Benchmark your RPC providers head-to-head to optimize dApp performance.
+Sannie brings voice capture, meetings, notes, reminders, chat, and local context into one AI workspace. Its permissioned specialized agents expose task state, sources, approvals, and execution as they work.
 
----
+[Explore Sannie](https://sannie.ai/)
 
-## Experience
+### [Tender IFS](https://apps.apple.com/us/app/tender-ifs/id6762642031) - Voice reflection on iOS
 
-### Founder / Product, Design & Engineering Lead (Remote)
-**AgenticFi** | *May 2026 - Present*
-- Building a personal AI brain for macOS that connects a user's apps, captures private context, and acts on their behalf through voice or text.
-- Lead product strategy, UX, technical architecture, and hands-on implementation across the AgenticFi ecosystem, including Tender and agent-ready DeFi APIs.
-- Working with Plug and Play to sharpen the go-to-market path, customer discovery, and early startup growth.
+An on-demand voice reflection agent informed by Internal Family Systems methodology. Tender IFS is live on the App Store with subscription billing and a seven-day free trial.
 
-### Head of Product / Contributor (Remote)
-**GlitchD Network - Blyz App** | *Jun 2024 - May 2026*
-- Owned the vision and multi-year roadmap for both an “AWS-for-Web3” infrastructure suite (L2/L3 rollups, DA layer) and the Blyz application platform, guiding protocols from ideation and technical specs through launch readiness.
-- Led 3 cross-functional teams (7+ engineers/designers) to ship a self-serve rollup builder and drive PMF search by mapping user journeys, prioritizing core features, and iterating with community feedback.
-- Coordinated GTM with sales/marketing and led technical integrations with ecosystem partners (e.g., LayerZero, Dune) to secure co-grant programs and early pilot clients.
-- Defined activation, retention, and cost KPIs, running user interviews and experiments to improve onboarding and self-serve adoption.
-
-### Web3 Product Advisor
-**Fractional (Remote)** | *Feb 2024 – Jun 2024*
-- Advised multiple teams on end-to-end product delivery: PRDs, smart contract architecture, and UX for DeFi and Web3 apps.
-- Led product work on a real-estate asset tokenization platform (RWA), from concept and specs through early development.
-- Supported DeFi protocol design: on-chain governance, liquidity mining, staking, and swap integrations.
-
-### Web3 Product Manager (Remote)
-**Broctagon Fintech Group** | *Nov 2021 – Feb 2024*
-- Led development of DeFi products (arbitrage bots, yield farming, staking, lending) for global fintech clients.
-- Drove a flagship DeFi product to $200M+ TVL; increased per-project margins by 700% by reducing build costs and reusing core components.
-- Managed full product lifecycle using Agile: discovery, market research, delivery, launch, and continuous optimization with cross-functional teams.
-
-### Web3 Project Manager (Shanghai)
-**Heyi Blockchain** | *Aug 2017 – Jan 2020*
-- Co-founded the blockchain advisory arm for Heyi Group (affiliated with King & Wood Mallesons).
-- Managed multiple advisory engagements and co-authored white papers for Ethereum-based insurance, gaming, and wellness platforms.
-
-### Blockchain Research (Shanghai)
-**ViewFin Blockchain Co** | *Apr 2017 – Aug 2017*
-- Researched and co-authored the Aimwise platform white paper, covering use cases, technical design, and go-to-market.
+[View on the App Store](https://apps.apple.com/us/app/tender-ifs/id6762642031)
 
 ---
 
-## Technical Skills
+## Selected impact
 
-| Domain | Skills |
-| :--- | :--- |
-| **AI Product & Agents** | Personal AI assistants, app integrations, private memory layers, voice interfaces, agent workflows |
-| **Product, Design & Engineering** | Roadmaps, PRDs, UX systems, prototyping, full-stack delivery, GTM |
-| **Web3 Infrastructure** | OP Stack, Arbitrum Orbit, ZK Stack, Scroll, Data Availability |
-| **DeFi & Data** | AMMs, Staking & Yield, Lending, Tokenomics, Governance, SQL, Dune Analytics |
-
-### Certifications
-- PMP®
-- PSPO I
-- AWS Cloud Practitioner
+- Led a DeFi staking platform from concept to **$200M+ TVL**
+- Shipped self-service rollup deployment across OP Stack, Arbitrum Orbit, zkSync ZK Stack, and Avalanche, reducing deployment from **months to minutes**
+- Increased per-project margins by **700%** through reusable smart-contract components
+- Led **7+ engineers and designers** across three workstreams, increasing feature throughput by **40%**
+- Delivered a Web3 launch platform whose Sherlock audit reported **zero high-, medium-, or low-severity findings**
 
 ---
 
-## Writing
+## Selected public work
 
-- **LinkedIn Pulse**: [The Era of the "Architect-Builder": How AI Turns Product Managers into Builders](#)
-- **LinkedIn Pulse**: [The "Invisible Crypto" Stack: How I Built a Gasless, On-Chain App in One Weekend](#)
+### [GitPulse](https://gitpulse.sarenlabs.xyz/)
+
+A native macOS menu-bar dashboard for GitHub contribution statistics, streaks, trends, language mix, and daily code activity.
+
+### [Markets Terminal](https://markets-terminal-app.vercel.app/)
+
+A paper-trading market dashboard with live cryptocurrency and equity views, portfolio tracking, and simulated execution.
 
 ---
 
-<div align="center">
-  <small>© 2026 Saren Abgaryan. Built with AI, product taste, and practical engineering.</small>
-</div>
+## What I focus on
+
+- **Agentic AI:** Multi-agent orchestration, long-running tasks, tool integration, voice AI, approvals, and guardrails
+- **DeFi execution:** Swaps, staking, yield, lending, tokenomics, cross-chain workflows, and transaction safety
+- **Agent infrastructure:** x402 payments, ERC-8004 identity and reputation, APIs, and autonomous task execution
+- **Web3 infrastructure:** Rollups, L3s, bridges, data availability, account abstraction, and smart contracts
+- **Product leadership:** Discovery, product strategy, technical specifications, delivery, pricing, GTM, and analytics
+
+---
+
+I publish reference implementations, technical case studies, and product tools that make architecture decisions and execution quality inspectable.
+
+If you are building at the intersection of agentic AI, fintech, DeFi, or developer infrastructure, let's connect through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
