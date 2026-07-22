@@ -56,7 +56,6 @@ A native menu-bar app for contribution history, streaks, activity trends, langua
 ## More open-source work
 
 - [**Bitcoin MVP in Python**](https://github.com/sarenabg/bitcoin-mvp-python) - A compact implementation of Bitcoin fundamentals for learning and experimentation
-- [**Web3 Product Notes**](https://github.com/sarenabg/web3-pm-blog) - Notes on building and managing Web3 products
 
 ## Technical focus
 
