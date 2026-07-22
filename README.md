@@ -1,8 +1,8 @@
 # Hi, I'm Saren
 
-**Founder and product builder working on agentic AI, voice systems, and autonomous financial software.**
+**Founder and hands-on builder working across AI agents, Web3, and DeFi.**
 
-I build products end to end - from product strategy and interaction design to agent architecture, APIs, safety, and launch. At [Agentic Labs](https://labs.agenticfi.wtf), my current focus is AI systems that can use tools, coordinate specialized workflows, transact, and keep people in control.
+I build products end to end - from product strategy and interaction design to agent architecture, smart contracts, APIs, safety, and launch. At [Agentic Labs](https://labs.agenticfi.wtf), I build both AI products and decentralized financial infrastructure: local-first voice agents, multi-agent workflows, on-chain execution, cross-chain systems, and programmable payments.
 
 [Website](https://labs.agenticfi.wtf) · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [Email](mailto:saren.abgaryan@yahoo.com)
 
@@ -18,7 +18,7 @@ A permissioned workspace that brings voice capture, meetings, notes, reminders, 
 
 ### [AgenticFi](https://app.agenticfi.wtf) - AI agents for DeFi execution
 
-`Multi-agent systems` `x402` `ERC-8004` `EVM` `Transaction safety`
+`AI agents` `DeFi` `Solidity` `EVM` `Cross-chain` `x402`
 
 Turns natural-language intent into executable workflows for swaps, cross-chain bridging, transfers, yield deposits, and automated yield management.
 
@@ -59,13 +59,13 @@ A native menu-bar app for contribution history, streaks, activity trends, langua
 
 ## Technical focus
 
-- **AI and agents:** LLM-powered workflows, multi-agent routing, tool and API integration, long-running tasks, voice AI, approvals, and guardrails
+- **AI and agent systems:** LLM-powered workflows, multi-agent routing, tool use, long-running tasks, voice AI, approvals, and guardrails
+- **DeFi engineering:** Swaps, bridges, staking, yield, transaction simulation, smart-contract safety, and programmable payments
+- **Web3 infrastructure:** EVM smart contracts, rollups and L3s, data availability, account abstraction, and cross-chain systems
 - **Product engineering:** Product architecture, interaction design, prototyping, local-first apps, APIs, pricing, and GTM
-- **Agentic finance:** x402 payments, ERC-8004 identity and reputation, autonomous execution, transaction simulation, and on-chain assertions
-- **Web3 infrastructure:** EVM smart contracts, rollups and L3s, bridges, data availability, account abstraction, and cross-chain systems
 
 ## Track record
 
-Before Agentic Labs, I led a DeFi staking platform to **$200M+ TVL**, shipped self-service rollup infrastructure that reduced deployment from **months to minutes**, and led **7+ engineers and designers** across three workstreams.
+I have spent **8+ years building Web3 and DeFi products and infrastructure**. Before Agentic Labs, I led a DeFi staking platform to **$200M+ TVL**, shipped self-service rollup infrastructure that reduced deployment from **months to minutes**, and led **7+ engineers and designers** across three workstreams.
 
-If you are building agentic AI, developer tools, fintech, or infrastructure, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
+If you are building AI agents, DeFi products, Web3 infrastructure, or tools at their intersection, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
