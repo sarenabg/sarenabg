@@ -1,70 +1,72 @@
-# Saren Abgaryan, PhD, PMP®
+# Hi, I'm Saren
 
-**Product leader building agentic AI, DeFi, and Web3 infrastructure.**
+**Founder and product builder working on agentic AI, voice systems, and autonomous financial software.**
 
-I turn complex infrastructure into usable products - from discovery and architecture through launch, pricing, and GTM. Across 8+ years, I have shipped DeFi platforms, self-service rollup infrastructure, and agentic products, with a focus on safe and inspectable execution.
+I build products end to end - from product strategy and interaction design to agent architecture, APIs, safety, and launch. At [Agentic Labs](https://labs.agenticfi.wtf), my current focus is AI systems that can use tools, coordinate specialized workflows, transact, and keep people in control.
 
-**Founder & Product Lead at [Agentic Labs](https://labs.agenticfi.wtf).**
+[Website](https://labs.agenticfi.wtf) · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [Email](mailto:saren.abgaryan@yahoo.com)
 
-[Agentic Labs](https://labs.agenticfi.wtf) · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [Email](mailto:saren.abgaryan@yahoo.com)
+## Featured projects
 
----
+### [Sannie](https://sannie.ai/) - Local-first AI agent workspace for macOS
 
-## What I'm building
+`Agentic AI` `Voice` `Local-first` `Human-in-the-loop`
 
-### [AgenticFi](https://app.agenticfi.wtf) - Agentic DeFi execution
+A permissioned workspace that brings voice capture, meetings, notes, reminders, chat, local context, and specialized agents together. Agents show their task state, sources, approvals, and execution as they work.
 
-AgenticFi turns natural-language intent into executable DeFi workflows, including swaps, cross-chain bridging, transfers, yield deposits, and automated yield management.
+[Website](https://sannie.ai/) · Private beta
 
-- Multi-agent router coordinating 10 specialized agents
+### [AgenticFi](https://app.agenticfi.wtf) - AI agents for DeFi execution
+
+`Multi-agent systems` `x402` `ERC-8004` `EVM` `Transaction safety`
+
+Turns natural-language intent into executable workflows for swaps, cross-chain bridging, transfers, yield deposits, and automated yield management.
+
+- Router coordinating 10 specialized agents
 - 16 smart contracts deployed across 6 EVM chains
-- ERC-8004 agent identity and on-chain reputation
-- 36 x402 DeFi API endpoints across 8 categories
-- Autonomous agents completed USDC-paid API calls within 24 hours of launch
+- 36 agent-ready DeFi API endpoints across 8 categories
 - Transaction simulation and post-state safety assertions
 
-[Launch AgenticFi](https://app.agenticfi.wtf) · [Explore the x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
+[Live app](https://app.agenticfi.wtf) · [x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
 
-### [Sannie](https://sannie.ai/) - Local-first agent OS for Mac
+### [Tender IFS](https://apps.apple.com/app/tender-ifs/id6762642031) - Voice reflection agent
 
-Sannie brings voice capture, meetings, notes, reminders, chat, local context, and specialized agents into one permissioned, reviewable workspace. Its agents expose task state, sources, approvals, and execution as they work. Sannie is currently in private beta.
+`Voice AI` `iOS` `Subscriptions`
 
-[Explore Sannie](https://sannie.ai/)
+An on-demand voice-and-chat reflection app informed by Internal Family Systems, with guided conversations, parts mapping, and a private journal of insights.
 
-### [Tender IFS](https://apps.apple.com/app/tender-ifs/id6762642031) - Guided voice reflection
+[App Store](https://apps.apple.com/app/tender-ifs/id6762642031)
 
-A voice-and-chat reflection app inspired by parts work, with parts mapping and a private journal of insights. Tender IFS is live on the App Store with subscription billing and a seven-day free trial.
+### [RPC Wars](https://github.com/sarenabg/rpc-wars) - RPC benchmarking toolkit
 
-[View on the App Store](https://apps.apple.com/app/tender-ifs/id6762642031)
+`TypeScript` `Node.js` `CLI` `Chart.js`
 
----
+Benchmarks blockchain RPC providers head to head across latency, reliability, and seven JSON-RPC test types. Includes a CLI, local dashboard, result export, and support for six EVM networks.
 
-## Selected impact
+[Source code](https://github.com/sarenabg/rpc-wars)
 
-- Led a DeFi staking platform from concept to **$200M+ TVL**
-- Shipped self-service rollup deployment across OP Stack, Arbitrum Orbit, zkSync ZK Stack, and Avalanche, reducing deployment from **months to minutes**
-- Increased per-project margins by **700%** through reusable smart-contract components
-- Led **7+ engineers and designers** across three workstreams, increasing feature throughput by **40%**
-- Delivered a Genesis NFT launch platform whose Sherlock audit reported **zero high-, medium-, or low-severity findings**
+### [GitPulse](https://gitpulse.sarenlabs.xyz/) - Native GitHub activity monitor
 
----
+`macOS` `Developer tools` `Local-first`
 
-## Also built
+A native menu-bar app for contribution history, streaks, activity trends, language mix, and daily lines-of-code insights, with data stored locally.
 
-- [**GitPulse**](https://gitpulse.sarenlabs.xyz/) - A native macOS menu-bar app for GitHub contributions, streaks, activity trends, language mix, and LOC insights, with data stored locally
+[Website](https://gitpulse.sarenlabs.xyz/)
 
----
+## More open-source work
 
-## What I focus on
+- [**Bitcoin MVP in Python**](https://github.com/sarenabg/bitcoin-mvp-python) - A compact implementation of Bitcoin fundamentals for learning and experimentation
+- [**Web3 Product Notes**](https://github.com/sarenabg/web3-pm-blog) - Notes on building and managing Web3 products
 
-- **Agentic AI:** Multi-agent orchestration, long-running tasks, tool integration, voice AI, approvals, and guardrails
-- **DeFi execution:** Swaps, staking, yield, lending, tokenomics, cross-chain workflows, and transaction safety
-- **Agent infrastructure:** x402 payments, ERC-8004 identity and reputation, APIs, and autonomous task execution
-- **Web3 infrastructure:** Rollups, L3s, bridges, data availability, account abstraction, and smart contracts
-- **Product leadership:** Discovery, product strategy, technical specifications, delivery, pricing, GTM, and analytics
+## Technical focus
 
----
+- **AI and agents:** LLM-powered workflows, multi-agent routing, tool and API integration, long-running tasks, voice AI, approvals, and guardrails
+- **Product engineering:** Product architecture, interaction design, prototyping, local-first apps, APIs, pricing, and GTM
+- **Agentic finance:** x402 payments, ERC-8004 identity and reputation, autonomous execution, transaction simulation, and on-chain assertions
+- **Web3 infrastructure:** EVM smart contracts, rollups and L3s, bridges, data availability, account abstraction, and cross-chain systems
 
-I build products that make architecture decisions and execution quality inspectable.
+## Track record
 
-If you are building at the intersection of agentic AI, fintech, DeFi, or developer infrastructure, let's connect through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
+Before Agentic Labs, I led a DeFi staking platform to **$200M+ TVL**, shipped self-service rollup infrastructure that reduced deployment from **months to minutes**, and led **7+ engineers and designers** across three workstreams.
+
+If you are building agentic AI, developer tools, fintech, or infrastructure, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
