@@ -1,71 +1,102 @@
-# Hi, I'm Saren
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Saren Abgaryan. Agentic systems for frontier finance. I design and build AI products end to end." src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Founder and hands-on builder working across AI agents, Web3, and DeFi.**
+<br>
 
-I build products end to end - from product strategy and interaction design to agent architecture, smart contracts, APIs, safety, and launch. At [Agentic Labs](https://labs.agenticfi.wtf), I build both AI products and decentralized financial infrastructure: local-first voice agents, multi-agent workflows, on-chain execution, cross-chain systems, and programmable payments.
+I'm Saren, founder of **[Agentic Labs](https://agenticfi.wtf)**, an independent AI studio in Yerevan. For the past year I have been designing and shipping agentic products: an investment account AI agents can trade in, model access that agents pay for in USDC, a newsroom run by agents, and a voice agent that sells apartments in 3D. I do the whole thing myself, from the first sketch and the interface to the agent architecture, the contracts and the launch.
 
-[Website](https://labs.agenticfi.wtf) · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [Email](mailto:saren.abgaryan@yahoo.com)
+**[agenticfi.wtf](https://agenticfi.wtf)** · [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) · [X](https://x.com/Sar_abg1) · [Email](mailto:saren.abgaryan@yahoo.com)
 
-## Featured projects
+## Agents for frontier finance
 
-### [Sannie](https://sannie.ai/) - Local-first AI agent workspace for macOS
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://app.agenticfi.wtf/agents"><img src="assets/agenticfi.webp" alt="AgenticFi agent marketplace"></a>
+<h3><a href="https://app.agenticfi.wtf">AgenticFi</a></h3>
+<p><sub>ONCHAIN INTENT AGENT</sub><br>Say what you want done. A router of 10 specialised agents finds the path for swaps, bridges, transfers and yield, simulates it and checks the result. 16 contracts on 6 EVM chains.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://demo.agenticfi.wtf/"><img src="assets/account.webp" alt="AgenticFi Account"></a>
+<h3><a href="https://demo.agenticfi.wtf/">AgenticFi Account</a></h3>
+<p><sub>INVESTING BY AI AGENT</sub><br>The investment account your AI agent can use. Stocks, pre-IPO companies and crypto in one place. Your agent in Claude, ChatGPT, Codex or Gemini trades inside limits only you can change.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://onchainrouter.dev/"><img src="assets/router.webp" alt="Onchain Router"></a>
+<h3><a href="https://onchainrouter.dev/">Onchain Router</a></h3>
+<p><sub>MODEL ACCESS FOR AGENTS</sub><br>One API for text, image and speech models. Agents pay per request in USDC over x402, with local spending limits and a verified receipt for every call.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://trenchestoday.xyz/"><img src="assets/trenches.webp" alt="Trenches Today front page"></a>
+<h3><a href="https://trenchestoday.xyz/">Trenches Today</a></h3>
+<p><sub>MULTI-AGENT NEWSROOM</sub><br>An autonomous crypto newspaper. Specialist desks report, an Editor-in-Chief agent edits, independent checks verify, and one sourced edition goes out every day.</p>
+</td>
+</tr>
+</table>
 
-`Agentic AI` `Voice` `Local-first` `Human-in-the-loop`
+## Agents for everything else
 
-A permissioned workspace that brings voice capture, meetings, notes, reminders, chat, local context, and specialized agents together. Agents show their task state, sources, approvals, and execution as they work.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://sannie.ai"><img src="assets/sannie.webp" alt="Sannie"></a>
+<h3><a href="https://sannie.ai">Sannie</a></h3>
+<p><sub>LOCAL-FIRST AGENT OS FOR MAC</sub><br>Voice, meetings, memory and permissioned agents, right where your work lives. Agents show their sources, approvals and progress as they work.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/app/tender-ifs/id6762642031"><img src="assets/tender.webp" alt="Tender IFS on iPhone"></a>
+<h3><a href="https://apps.apple.com/app/tender-ifs/id6762642031">Tender IFS</a></h3>
+<p><sub>VOICE REFLECTION, iOS</sub><br>A gentle voice companion for self-reflection. Guided voice and chat sessions, a personal parts map, and insights that stay with you.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://homelia.am/"><img src="assets/homelia.webp" alt="Homelia 3D building"></a>
+<h3><a href="https://homelia.am/">Homelia</a></h3>
+<p><sub>3D SALES WITH AN AI AGENT</sub><br>A 3D building with its own AI sales agent. Buyers turn the tower and walk through furnished apartments while the agent answers by voice in Armenian, English or Russian and moves the view for them.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://3d.homelia.am/"><img src="assets/homelia3d.webp" alt="A floor plan becoming a furnished 3D home"></a>
+<h3><a href="https://3d.homelia.am/">Homelia 3D</a></h3>
+<p><sub>AI INTERIOR DESIGNER</sub><br>Upload a floor plan. The AI reads the walls, doors and windows, furnishes every room in the style you choose, and changes anything you ask in plain words.</p>
+</td>
+</tr>
+</table>
 
-[Website](https://sannie.ai/) · Private beta
+## Open source and hackathon builds
 
-### [AgenticFi](https://app.agenticfi.wtf) - AI agents for DeFi execution
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sarenabg/keyhole"><img src="assets/keyhole.webp" alt="Keyhole"></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sarenabg/keyhole">Keyhole</a></h3>
+<p><sub>NEAR HACKATHON · PRIVACY + DEFI</sub><br>Private copy trading on NEAR Intents. Traders keep their trades private while their record is proven from their account. Followers buy a key to see and copy the trades, and the trader is paid instantly.</p>
+<p><a href="https://keyhole-near.vercel.app">Live demo</a> · <a href="https://github.com/sarenabg/keyhole">Source</a></p>
+</td>
+</tr>
+</table>
 
-`AI agents` `DeFi` `Solidity` `EVM` `Cross-chain` `x402`
+- **[Onchain Router SDK](https://github.com/OnchainRouter/onchain-router)**: secure x402 clients for AI agents, with a buyer runtime, CLI, SDKs, MCP server, budgets and verified receipts.
+- **[Guild](https://github.com/sarenabg/guild)**: an open swarm of AI agents for hire on NEAR. Every job and agent passes an AI safety review, and the contract waits for it.
+- **[Verity](https://github.com/sarenabg/verity)**: an encyclopedia that knows how sure it is. Every fact has a prediction market, and an AI rewrites the page as the odds move.
+- **[RPC Wars](https://github.com/sarenabg/rpc-wars)**: benchmark EVM RPC providers by latency, reliability and JSON-RPC workload, from a CLI or a local dashboard.
 
-Turns natural-language intent into executable workflows for swaps, cross-chain bridging, transfers, yield deposits, and automated yield management.
+## How I work
 
-- Router coordinating 10 specialized agents
-- 16 smart contracts deployed across 6 EVM chains
-- 36 agent-ready DeFi API endpoints across 8 categories
-- Transaction simulation and post-state safety assertions
+- **Design and code are one job.** I design every product I ship, from the brand and type to the interface and motion, and then I build it.
+- **Agents with limits.** Approvals, spending caps, simulations and receipts, so an agent can be trusted with real money.
+- **Wide range.** Swift on Mac and iOS, TypeScript and React on the web, Solidity and NEAR contracts, Python agent pipelines, three.js and Blender for 3D, and voice.
 
-[Live app](https://app.agenticfi.wtf) · [x402 API](https://www.x402scan.com/server/edce75e4-62bd-43c7-a573-d35638db55e0)
+## Before Agentic Labs
 
-### [Tender IFS](https://apps.apple.com/app/tender-ifs/id6762642031) - Voice reflection agent
+8+ years building Web3 and DeFi products and infrastructure. I led a DeFi staking platform to **$200M+ TVL**, shipped self-service rollup infrastructure that took deployment from **months to minutes**, and led **7+ engineers and designers** across three workstreams.
 
-`Voice AI` `iOS` `Subscriptions`
+<br>
 
-An on-demand voice-and-chat reflection app informed by Internal Family Systems, with guided conversations, parts mapping, and a private journal of insights.
-
-[App Store](https://apps.apple.com/app/tender-ifs/id6762642031)
-
-### [RPC Wars](https://github.com/sarenabg/rpc-wars) - RPC benchmarking toolkit
-
-`TypeScript` `Node.js` `CLI` `Chart.js`
-
-Benchmarks blockchain RPC providers head to head across latency, reliability, and seven JSON-RPC test types. Includes a CLI, local dashboard, result export, and support for six EVM networks.
-
-[Source code](https://github.com/sarenabg/rpc-wars)
-
-### [GitPulse](https://gitpulse.sarenlabs.xyz/) - Native GitHub activity monitor
-
-`macOS` `Developer tools` `Local-first`
-
-A native menu-bar app for contribution history, streaks, activity trends, language mix, and daily lines-of-code insights, with data stored locally.
-
-[Website](https://gitpulse.sarenlabs.xyz/)
-
-## More open-source work
-
-- [**Bitcoin MVP in Python**](https://github.com/sarenabg/bitcoin-mvp-python) - A compact implementation of Bitcoin fundamentals for learning and experimentation
-
-## Technical focus
-
-- **AI and agent systems:** LLM-powered workflows, multi-agent routing, tool use, long-running tasks, voice AI, approvals, and guardrails
-- **DeFi engineering:** Swaps, bridges, staking, yield, transaction simulation, smart-contract safety, and programmable payments
-- **Web3 infrastructure:** EVM smart contracts, rollups and L3s, data availability, account abstraction, and cross-chain systems
-- **Product engineering:** Product architecture, interaction design, prototyping, local-first apps, APIs, pricing, and GTM
-
-## Track record
-
-I have spent **8+ years building Web3 and DeFi products and infrastructure**. Before Agentic Labs, I led a DeFi staking platform to **$200M+ TVL**, shipped self-service rollup infrastructure that reduced deployment from **months to minutes**, and led **7+ engineers and designers** across three workstreams.
-
-If you are building AI agents, DeFi products, Web3 infrastructure, or tools at their intersection, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/saren-abgaryan/) or [email](mailto:saren.abgaryan@yahoo.com).
+<sub>Most of my work lives in private product repositories: 5,800+ contributions in the last year. If you are building agents, frontier fintech or anything where the two meet, [write to me](mailto:saren.abgaryan@yahoo.com).</sub>
